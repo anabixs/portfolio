@@ -1,0 +1,193 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+*{
+    font-family: 'Sen', sans-serif;
+}
+header{
+    position: relative;
+    
+}
+.box{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(55, 0, 255);
+    display: inline-block;
+    margin-right: 10px;
+}
+.nav{
+    height: 100px;
+    padding-left: 50px;
+}
+.nav > span > h3{
+    display: inline;
+}
+.navbar-nav > a{
+    color: #000!important;
+}
+.navbar-nav> a:hover{
+    color: rgb(0, 21, 255) !important;;
+}
+.leftSide{
+    background-color:#fcedc2;
+    height: 840px;
+    width: 40%;
+    position: absolute;
+}
+.content{
+    position: absolute;
+    margin-top: 200px;
+    width: 100%;
+    padding: 0 200px;
+}
+.prof{
+    border: 0px;
+    border-radius: 0%;
+    background-color: #fcf4dc;
+    box-shadow: -11.31px 11.31px 17px 0px rgba(138,131,124,0.23);
+
+    
+}
+.line{
+    width: 50px;
+    height: 2px;
+    background-color: blue;
+    margin: 20px auto;
+    
+}
+.link_buttons{
+    display: block;
+    
+    background-color: #fff;
+    width: 100%;
+}
+.social-list{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+    margin-bottom: 0!important;
+    width: 100%;
+    
+}
+
+.social-list li{
+    padding:10px;
+    color:#000000;
+    font-size:19px;
+}
+.card-body{
+    padding-bottom: 0px;
+    padding-left: 0;
+    padding-right: 0;
+   
+}
+.ssd{
+    width: 100%;
+}
+.hello>h1{
+    font-size: 100px;
+}
+.text_introd > p{
+    font-size: 25px;
+}
+.info > button{
+    border-radius: 20px;
+}
+.info > a{
+    border-radius: 20px;
+}
+.btn2{
+    background-color: #007bff;
+    color: #fff;
+    margin-left: 5px;
+}
+.btn2:hover{
+    background-color: #fff;
+    
+    color:#007bff ;
+}
+.desc{
+    margin-top: 20px;
+}
+main{
+    padding-bottom: 90px;
+}
+.containerr{
+    width: 100% !important;
+    background-color: #fcedc2;
+    padding-top: 80px;
+    padding-bottom: 100px;
+     
+}
+.resume, .projects{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.resume,.projects > span{
+    font-weight: bold;
+    font-size: 35px;
+}
+.column{
+    width: 50%;
+    margin: auto;
+}
+.sign_buttons{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.white_part{
+    background-color: #fff;
+    box-shadow: -11.31px 11.31px 17px 0px rgba(138,131,124,0.23);
+    margin: 30px 0;
+    padding: 10px
+}
+.white_part > div{
+    border: 0px;
+}
+.butten{
+    border-radius: 30px;
+    font-weight: bold;
+    background-color: #007bff;
+    color: #fff;
+    padding-top:9px;
+    padding-bottom: 9px;
+}
+.butten:hover{
+    background-color: #fcedc2;
+    color: #007bff;
+}
+.html > div{
+    width: 80%;
+}
+.css >div{
+    width:80%;
+}
+.js >div{
+    width:40%;
+}
+.reactt >div{
+    width:30%;
+}
+.vuee > div{
+    width:40%;
+}
+.projects{
+    margin: auto;
+}
+.proj{
+    border: 3px solid #000;
+
+}
+.texx{
+    display: flex;
+    width:50%;
+    margin: auto;
+    margin-top: 30px;
+    justify-content: center;
+}
