@@ -11,7 +11,7 @@ const Resume = () => {
             <div className="column">
                 <div className="sign_buttons">
                 <span>Skills</span>
-                <a className="butten btn btn-outline-primary" href="\CV\CVKolomiiets.pdf" target='_blank' download>Download CV</a>
+                <a className="butten btn btn-outline-primary" href="\CV\CVKolomiiets...pdf" target='_blank' download>Download CV</a>
                 </div>
                 <div className="white_part">
                 <div className="card h-100">
