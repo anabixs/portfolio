@@ -16,13 +16,13 @@ const Resume = () => {
                 <div className="white_part">
                 <div className="card h-100">
                     <div className="card-body">
-                      <small>HTML</small>
+                      <small>HTML/CSS</small>
                       <div className="html progress mb-3">
                         <div className="progress-bar bg-primary" role="progressbar"  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
-                      <small>CSS</small>
+                      <small>BASH</small>
                       <div className="css progress mb-3" >
-                        <div className="progress-bar bg-primary" role="progressbar"  aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div className="progress-bar bg-primary" role="progressbar"  aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
                       <small>JavaScript</small>
                       <div className="js progress mb-3" >
