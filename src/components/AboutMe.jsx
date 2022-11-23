@@ -36,8 +36,19 @@ const AboutMe = () => {
                     <Link className="btn btn-outline-primary" to="/resume">Resume</Link>
                     <Link className="btn2 btn btn-outline-primary" to="/projects">Projects</Link>
                     <p className="desc">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quisquam eos dolores? Impedit quo eos porro ullam a fugiat at consequatur iste? Maxime iste amet ut assumenda molestiae nostrum mollitia?
-                       </p>
+                        I am a 2nd year Computer Science student
+                        and I would like to try myself in Frontend
+                        Development. For me it is really important to
+                        create layouts, which are good looking and
+                        intuitive for people. I hope that, in your
+                        company I would be able to use my
+                        knowledge, skills in practice and develop
+                        myself. I would really appreciate the
+                        opportunity to became a member of your team
+                        and add to it my energy, creativity and
+                        reliability.
+
+                    </p>
                 </div>
                 </div>
             </div>

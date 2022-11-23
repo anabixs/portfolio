@@ -163,19 +163,25 @@ main{
     color: #007bff;
 }
 .html > div{
-    width: 80%;
+    width: 70%;
 }
-.css >div{
-    width:80%;
+.bash >div{
+    width:40%;
 }
 .js >div{
-    width:40%;
+    width:45%;
 }
 .reactt >div{
-    width:30%;
+    width:25%;
 }
 .vuee > div{
-    width:40%;
+    width:30%;
+}
+.git > div{
+    width:50%;
+}
+.cpp > div{
+    width:60%;
 }
 .projects{
     margin: auto;
