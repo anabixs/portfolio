@@ -11,7 +11,7 @@ const AboutMe = () => {
                         <div className="prof card">
                             <div className="card-body">
                                 <div className="d-flex flex-column align-items-center text-center">
-                                <img src={avatar} alt="Admin" class="rounded-circle" width="150px"/>
+                                <img src={avatar} alt="Admin" className="rounded-circle" width="150px"/>
                                 <div className="mt-3 ssd">
                                   <h4><b>Vladyslav Kolomiiets</b></h4>
                                   <div className="line"></div>

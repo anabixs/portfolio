@@ -188,7 +188,17 @@ main{
 }
 .proj{
     border: 3px solid #000;
-
+    position: relative;
+    display: flex;
+}
+.proj > span{
+    position: absolute;
+    left: 0;
+    background-color: greenyellow;
+    padding: 20px;
+}
+.proj > img{
+    position: relative;
 }
 .texx{
     display: flex;
@@ -197,3 +207,24 @@ main{
     margin-top: 30px;
     justify-content: center;
 }
+.caption{
+    position: absolute;
+    display: flex;
+    font-size:20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(138, 158, 161);
+    color: #fff;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    transition: opacity ease 0.2s;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-direction: row;
+  }
+  .proj:hover > .caption{
+    opacity: 0.9;
+    border: 2px solid var(--border);
+  } 
