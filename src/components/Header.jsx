@@ -13,13 +13,13 @@ function Header() {
           / Junior FrontEnd Developer
         </span>
         <div className="navbar-nav">
-          <Link className="nav-item nav-link" to="/">
+          <Link className="nav-item nav-link" to="/portfolio">
             About me
           </Link>
-          <Link className="nav-item nav-link" to="/resume">
+          <Link className="nav-item nav-link" to="/portfolio/resume">
             Resume
           </Link>
-          <Link className="nav-item nav-link" to="/projects">
+          <Link className="nav-item nav-link" to="/portfolio/projects">
             Projects
           </Link>
         </div>
