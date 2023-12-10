@@ -39,9 +39,9 @@ const Project = () => {
           <img src={gadgetDoctor} alt="Gadget Doctor Page" width="351px"></img>
           <div className="caption">
             <span>React.js</span>
+            <span>Typescript</span>
             <span>REST</span>
             <span>MUI</span>
-            <span>React Hooks</span>
           </div>
         </a>
       </div>

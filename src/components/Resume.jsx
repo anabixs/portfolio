@@ -11,7 +11,7 @@ const Resume = () => {
           <span>Skills</span>
           <a
             className="butten btn btn-outline-primary"
-            href="\CV\vladyslav_kolomiiets_cv.pdf"
+            href="CV\vladyslav_kolomiiets_cv.pdf"
             target="_blank"
             download
           >
